@@ -19,6 +19,7 @@ public class problem {
 		x.a = sc.nextDouble();
 		x.b = sc.nextDouble();
 		x.c = sc.nextDouble();
+		x.d = sc.nextDouble();
 		System.out.println("Enter the measures of triangule Y");
 		y.a = sc.nextDouble();
 		y.b = sc.nextDouble();
